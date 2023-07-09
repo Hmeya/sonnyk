@@ -1,0 +1,24 @@
+body{
+    background-color: cadetblue;
+}
+
+ul li {
+    color: white;
+    font-size: 20px;
+}
+
+p {
+    font-size: 1.1 em;
+}
+
+
+.shapka {
+    background-color:rgb(0,0,0) ;
+   margin: 0;
+   width: 100%;
+   padding-bottom: 2%;
+}
+
+.btn_my_style{
+background-color: #4e8ab4;
+}
